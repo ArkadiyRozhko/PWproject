@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarType", "VarType\VarType.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeCast", "TypeCast\TypeCast.csproj", "{BF9A5535-4339-4465-B9E2-7060C862EFA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ostatok", "Ostatok\Ostatok.csproj", "{CE39EFA4-CDD4-4AA5-A30C-9133883E8221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inkrement_dekrement", "inkrement_dekrement\inkrement_dekrement.csproj", "{3EC07B29-D9A9-49AD-8E96-8BB4375DA192}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{BF9A5535-4339-4465-B9E2-7060C862EFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF9A5535-4339-4465-B9E2-7060C862EFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF9A5535-4339-4465-B9E2-7060C862EFA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE39EFA4-CDD4-4AA5-A30C-9133883E8221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE39EFA4-CDD4-4AA5-A30C-9133883E8221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE39EFA4-CDD4-4AA5-A30C-9133883E8221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE39EFA4-CDD4-4AA5-A30C-9133883E8221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EC07B29-D9A9-49AD-8E96-8BB4375DA192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC07B29-D9A9-49AD-8E96-8BB4375DA192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC07B29-D9A9-49AD-8E96-8BB4375DA192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC07B29-D9A9-49AD-8E96-8BB4375DA192}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

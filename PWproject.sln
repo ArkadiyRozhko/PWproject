@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWproject", "PWproject\PWpr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarType", "VarType\VarType.csproj", "{E111D07A-5140-4CBB-B7C8-B1332590B30D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeCast", "TypeCast\TypeCast.csproj", "{BF9A5535-4339-4465-B9E2-7060C862EFA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E111D07A-5140-4CBB-B7C8-B1332590B30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E111D07A-5140-4CBB-B7C8-B1332590B30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E111D07A-5140-4CBB-B7C8-B1332590B30D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF9A5535-4339-4465-B9E2-7060C862EFA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9A5535-4339-4465-B9E2-7060C862EFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9A5535-4339-4465-B9E2-7060C862EFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9A5535-4339-4465-B9E2-7060C862EFA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

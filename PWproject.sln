@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ostatok", "Ostatok\Ostatok.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inkrement_dekrement", "inkrement_dekrement\inkrement_dekrement.csproj", "{3EC07B29-D9A9-49AD-8E96-8BB4375DA192}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogikOperator", "LogikOperator\LogikOperator.csproj", "{BAA83D4A-26A5-4E58-AA24-4D0A17B977DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3EC07B29-D9A9-49AD-8E96-8BB4375DA192}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EC07B29-D9A9-49AD-8E96-8BB4375DA192}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EC07B29-D9A9-49AD-8E96-8BB4375DA192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA83D4A-26A5-4E58-AA24-4D0A17B977DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA83D4A-26A5-4E58-AA24-4D0A17B977DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA83D4A-26A5-4E58-AA24-4D0A17B977DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA83D4A-26A5-4E58-AA24-4D0A17B977DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

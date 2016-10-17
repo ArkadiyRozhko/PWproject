@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inkrement_dekrement", "inkr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogikOperator", "LogikOperator\LogikOperator.csproj", "{BAA83D4A-26A5-4E58-AA24-4D0A17B977DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TernarnyOperator", "TernarnyOperator\TernarnyOperator.csproj", "{FEBEA0B7-0C6B-4840-97A5-BC5FD623287A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{BAA83D4A-26A5-4E58-AA24-4D0A17B977DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAA83D4A-26A5-4E58-AA24-4D0A17B977DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAA83D4A-26A5-4E58-AA24-4D0A17B977DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEBEA0B7-0C6B-4840-97A5-BC5FD623287A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEBEA0B7-0C6B-4840-97A5-BC5FD623287A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEBEA0B7-0C6B-4840-97A5-BC5FD623287A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEBEA0B7-0C6B-4840-97A5-BC5FD623287A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

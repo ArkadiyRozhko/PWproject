@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TernarnyOperator")]
+[assembly: AssemblyTitle("ternarnuyOperator")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TernarnyOperator")]
+[assembly: AssemblyProduct("ternarnuyOperator")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("febea0b7-0c6b-4840-97a5-bc5fd623287a")]
+[assembly: Guid("44995201-749e-4be9-9ba6-b2ff5d2af7db")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogikOperator", "LogikOpera
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TernarnyOperator", "TernarnyOperator\TernarnyOperator.csproj", "{FEBEA0B7-0C6B-4840-97A5-BC5FD623287A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse", "IfElse\IfElse.csproj", "{5AB55B41-28E8-4137-ACB5-D008088171CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{FEBEA0B7-0C6B-4840-97A5-BC5FD623287A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEBEA0B7-0C6B-4840-97A5-BC5FD623287A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEBEA0B7-0C6B-4840-97A5-BC5FD623287A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AB55B41-28E8-4137-ACB5-D008088171CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB55B41-28E8-4137-ACB5-D008088171CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB55B41-28E8-4137-ACB5-D008088171CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB55B41-28E8-4137-ACB5-D008088171CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

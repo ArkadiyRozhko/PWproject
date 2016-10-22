@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dowhile", "dowhile\dowhile.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foretch", "foretch\foretch.csproj", "{08628120-FE0D-4582-8AF7-84B1DD2AF9D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Continue", "Continue\Continue.csproj", "{AAC90312-BFE0-4C4D-974E-07BADCE6E828}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{08628120-FE0D-4582-8AF7-84B1DD2AF9D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08628120-FE0D-4582-8AF7-84B1DD2AF9D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08628120-FE0D-4582-8AF7-84B1DD2AF9D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAC90312-BFE0-4C4D-974E-07BADCE6E828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC90312-BFE0-4C4D-974E-07BADCE6E828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC90312-BFE0-4C4D-974E-07BADCE6E828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC90312-BFE0-4C4D-974E-07BADCE6E828}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

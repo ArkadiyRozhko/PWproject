@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Continue", "Continue\Contin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "return", "return\return.csproj", "{CE923D7B-38AA-4774-95C6-C615AE992940}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Massiv", "Massiv\Massiv.csproj", "{8ABF8C10-A1FF-4186-B122-5245C81C2861}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{CE923D7B-38AA-4774-95C6-C615AE992940}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE923D7B-38AA-4774-95C6-C615AE992940}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE923D7B-38AA-4774-95C6-C615AE992940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ABF8C10-A1FF-4186-B122-5245C81C2861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ABF8C10-A1FF-4186-B122-5245C81C2861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ABF8C10-A1FF-4186-B122-5245C81C2861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ABF8C10-A1FF-4186-B122-5245C81C2861}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

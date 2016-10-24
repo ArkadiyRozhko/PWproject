@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Massiv", "Massiv\Massiv.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassivObjekt", "MassivObjekt\MassivObjekt.csproj", "{F2E5AE73-E044-4F4D-BEB6-0A84549D5BA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DwumerniyMasiv", "DwumerniyMasiv\DwumerniyMasiv.csproj", "{7B536CFB-EBE2-41DB-A20B-4610010DDF20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{F2E5AE73-E044-4F4D-BEB6-0A84549D5BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2E5AE73-E044-4F4D-BEB6-0A84549D5BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2E5AE73-E044-4F4D-BEB6-0A84549D5BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B536CFB-EBE2-41DB-A20B-4610010DDF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B536CFB-EBE2-41DB-A20B-4610010DDF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B536CFB-EBE2-41DB-A20B-4610010DDF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B536CFB-EBE2-41DB-A20B-4610010DDF20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

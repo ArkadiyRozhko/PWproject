@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortAndSerch", "SortAndSerc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayInMethod", "ArrayInMethod\ArrayInMethod.csproj", "{16AD59F5-4F13-4A7A-AD3B-B4FEF2918C76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySegmentProj", "ArraySegmentProj\ArraySegmentProj.csproj", "{F47E5137-B237-4C9C-86D8-8AB1B4424BCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{16AD59F5-4F13-4A7A-AD3B-B4FEF2918C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16AD59F5-4F13-4A7A-AD3B-B4FEF2918C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16AD59F5-4F13-4A7A-AD3B-B4FEF2918C76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F47E5137-B237-4C9C-86D8-8AB1B4424BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47E5137-B237-4C9C-86D8-8AB1B4424BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47E5137-B237-4C9C-86D8-8AB1B4424BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47E5137-B237-4C9C-86D8-8AB1B4424BCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

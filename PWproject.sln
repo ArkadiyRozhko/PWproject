@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloneMass", "CloneMass\Clon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortAndSerch", "SortAndSerch\SortAndSerch.csproj", "{99EED68E-7957-4389-92F7-53353D437DE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayInMethod", "ArrayInMethod\ArrayInMethod.csproj", "{16AD59F5-4F13-4A7A-AD3B-B4FEF2918C76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{99EED68E-7957-4389-92F7-53353D437DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99EED68E-7957-4389-92F7-53353D437DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99EED68E-7957-4389-92F7-53353D437DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16AD59F5-4F13-4A7A-AD3B-B4FEF2918C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16AD59F5-4F13-4A7A-AD3B-B4FEF2918C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16AD59F5-4F13-4A7A-AD3B-B4FEF2918C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16AD59F5-4F13-4A7A-AD3B-B4FEF2918C76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

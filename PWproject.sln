@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Korteg", "Korteg\Korteg.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFirst", "StringFirst\StringFirst.csproj", "{3FC0116C-60E8-496A-B355-0B7BA2656D07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethods", "StringMethods\StringMethods.csproj", "{05350668-6403-4141-BF44-67F55EB7A024}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{3FC0116C-60E8-496A-B355-0B7BA2656D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FC0116C-60E8-496A-B355-0B7BA2656D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FC0116C-60E8-496A-B355-0B7BA2656D07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05350668-6403-4141-BF44-67F55EB7A024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05350668-6403-4141-BF44-67F55EB7A024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05350668-6403-4141-BF44-67F55EB7A024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05350668-6403-4141-BF44-67F55EB7A024}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

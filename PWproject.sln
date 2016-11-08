@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySegmentProj", "ArraySe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Korteg", "Korteg\Korteg.csproj", "{BA0BFB3A-4C2F-4D4C-AB75-A8968CB3D2F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFirst", "StringFirst\StringFirst.csproj", "{3FC0116C-60E8-496A-B355-0B7BA2656D07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{BA0BFB3A-4C2F-4D4C-AB75-A8968CB3D2F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA0BFB3A-4C2F-4D4C-AB75-A8968CB3D2F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA0BFB3A-4C2F-4D4C-AB75-A8968CB3D2F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC0116C-60E8-496A-B355-0B7BA2656D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC0116C-60E8-496A-B355-0B7BA2656D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC0116C-60E8-496A-B355-0B7BA2656D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC0116C-60E8-496A-B355-0B7BA2656D07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

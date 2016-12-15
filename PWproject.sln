@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupenchatuyMasiv", "Stupen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayInstance", "ArrayInstance\ArrayInstance.csproj", "{A16755AB-7F8C-4277-87BB-9C850D195241}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySortSerch", "ArraySortSerch\ArraySortSerch.csproj", "{86B0B72E-70B8-49F2-AC3B-54A40A73A8FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{A16755AB-7F8C-4277-87BB-9C850D195241}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A16755AB-7F8C-4277-87BB-9C850D195241}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A16755AB-7F8C-4277-87BB-9C850D195241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B0B72E-70B8-49F2-AC3B-54A40A73A8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B0B72E-70B8-49F2-AC3B-54A40A73A8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B0B72E-70B8-49F2-AC3B-54A40A73A8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B0B72E-70B8-49F2-AC3B-54A40A73A8FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

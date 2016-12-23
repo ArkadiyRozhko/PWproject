@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilderApp", "StringB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatirovsnieStroki", "FormatirovsnieStroki\FormatirovsnieStroki.csproj", "{16A2232D-8223-4C17-8201-63A256E35A12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "regexpApp", "regexpApp\regexpApp.csproj", "{BF1FADA5-8138-4FC6-B663-FDF1B67F78F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{16A2232D-8223-4C17-8201-63A256E35A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16A2232D-8223-4C17-8201-63A256E35A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16A2232D-8223-4C17-8201-63A256E35A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF1FADA5-8138-4FC6-B663-FDF1B67F78F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1FADA5-8138-4FC6-B663-FDF1B67F78F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF1FADA5-8138-4FC6-B663-FDF1B67F78F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF1FADA5-8138-4FC6-B663-FDF1B67F78F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
